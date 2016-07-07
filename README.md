@@ -18,6 +18,8 @@ This is the code needed to Turn a Raspberry Pi into a client for Amazon's Alexa 
 
 I have tested and make sure it will work with wake word detection. I haven't try with button yet (the tools are on the way. Will update as soon as possible).
 
+here's the [demo](https://youtu.be/gqfpGiHsWso)
+
 Feel free to contact me if you have any question.
 ---
 ##NOTE This branch is a hacked-up version of maso27's repository which origins from sammachin's repository
